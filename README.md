@@ -41,4 +41,6 @@ scp サーバーのIPアドレス:7でコピーしたものを貼り付ける .
 
 
 
+### 重みの保管場所
 
+2019年: http://www.hayashibara-lab.it-chiba.ac.jp/robocup/DeepLearning/2019/
